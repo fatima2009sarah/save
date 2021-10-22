@@ -1,0 +1,23 @@
+body{
+    background-size: 100%;
+}
+
+#water_save{
+   width: 200px;
+    height: 150px;
+    margin-left: 800px;
+    margin-top: 55px;
+    margin-right: 100px;
+}
+
+#land_save{
+    height: 150px;
+    width: 200px;
+    margin-right: 800px;
+    margin-top: 170px;
+    margin-left: 100px;
+}
+
+h1{
+    text-align: center;
+}
